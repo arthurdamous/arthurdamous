@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/arthur_damous" target="blank"><img src="https://img.shields.io/twitter/follow/arthur_damous?logo=twitter&style=for-the-badge" alt="arthur_damous" /></a> </p>
 
-- 🔭 I’m currently working on [GuessMyAge](https://github.com/arthurdamous/guess-my-age)
+- 🔭 I’m currently working on [NetflixClone](https://github.com/arthurdamous/netflix-clone)
 
-- 🌱 I’m currently learning **MAD Skills, Swift and Flutter**
+- 🌱 I’m currently learning **Modern Android Development Skills and Swift
 
 - 📫 How to reach me **arthur.damous@gmail.com**
 
