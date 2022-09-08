@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arthur</h1>
 <h3 align="center">A passionate Android Engineer from Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arthurdamous" alt="arthurdamous" /></a> </p>
+<p align="left"> <a href="https://github.com/arthurdamous/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arthurdamous" alt="arthurdamous" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/arthur_damous" target="blank"><img src="https://img.shields.io/twitter/follow/arthur_damous?logo=twitter&style=for-the-badge" alt="arthur_damous" /></a> </p>
 
